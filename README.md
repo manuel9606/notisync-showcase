@@ -33,9 +33,24 @@ NotiSync es una plataforma SaaS desarrollada para centralizar, visualizar y gest
 
 La plataforma utiliza Node.js y Express para procesar las solicitudes, renderizar vistas EJS y gestionar la lógica de negocio. MySQL permite almacenar la información y las integraciones externas facilitan los flujos de notificaciones y suscripciones.
 
-## Capturas de pantalla
+## 📸 Demostración del sistema
 
-Se agregaron capturas del login, formulario de registro, dashboard y de las principales funcionalidades.
+NotiSync es una plataforma SaaS para la gestión
+y seguimiento de pagos digitales en tiempo real.
+
+### 📄 Presentación del proyecto
+
+La presentación incluye capturas de las principales
+funcionalidades y pantallas del sistema.
+
+📥 [Ver presentación completa de NotiSync](screenshots/presentracion%20notisync.pdf)
+
+### 🌐 Plataforma en producción
+
+🔗 [Visitar NotiSync](https://notisync.net)
+
+> El código fuente original se mantiene privado
+> para proteger la lógica de negocio.
 
 ## Mi participación
 
