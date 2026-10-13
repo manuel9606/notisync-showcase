@@ -35,7 +35,7 @@ La plataforma utiliza Node.js y Express para procesar las solicitudes, renderiza
 
 ## Capturas de pantalla
 
-Próximamente se agregarán capturas del dashboard y de las principales funcionalidades.
+Se agregaron capturas del login, formulario de registro, dashboard y de las principales funcionalidades.
 
 ## Mi participación
 
